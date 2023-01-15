@@ -261,11 +261,7 @@ class App:
 
     def all_supp(self):
         self.life.destroy()
-
-
-# --- Jeu d'essais ---
-
-
+        
 
 # --- mise en place du programme ---
 diff_size(str(input("Difficulté : easy/normal/hard \n")))
